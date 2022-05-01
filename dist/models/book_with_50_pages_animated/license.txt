@@ -1,0 +1,8 @@
+Model Information:
+* title:	Book with 50 pages animated
+* source:	https://sketchfab.com/3d-models/book-with-50-pages-animated-a715b8947db34f64986a24fc25955aca
+* author:	luismi93 (https://sketchfab.com/luismi93)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
